@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605081249233OQGU6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508124923C1NPOE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Del aula al mostrador en la oficina de farmacia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto de aprendizaje basado en la simulación de la dispensación de productos parafarmacéuticos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Constanza Carrillo Arcos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto dirigido al alumnado de Farmacia y Parafarmacia basado en la simulación de la dispensación de productos, integrando competencias profesionales y digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778170178402</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>b6aeda70-a0c8-4a93-9800-e5ef87b61292</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>b6aeda70-a0c8-4a93-9800-e5ef87b61292</odePageId>
+      <odeBlockId>block-1778170208645-nqjwp7jka</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>b6aeda70-a0c8-4a93-9800-e5ef87b61292</odePageId>
+          <odeBlockId>block-1778170208645-nqjwp7jka</odeBlockId>
+          <odeIdeviceId>idevice-1778170208642-yrvdrlet6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos al proyecto “Del aula al mostrador en la oficina de farmacia”.</p>
+<p>En este proyecto trabajarás como si estuvieras en una farmacia real, analizando las necesidades de diferentes clientes y seleccionando el producto de parafarmacia más adecuado en cada caso.</p>
+<p>A lo largo de las sesiones, aprenderás a buscar información fiable, seleccionar productos, justificar tus decisiones y comunicarte de forma profesional.</p>
+<p>Para ello, utilizarás diferentes herramientas digitales que te ayudarán a desarrollar tu competencia profesional y digital.</p>
+<p>El objetivo final será resolver casos prácticos y presentar tu propuesta como si estuvieras atendiendo en el mostrador de una farmacia.</p>
+<p> Comenzamos el proyecto… ¿estás preparado/a para trabajar como profesional de farmacia?</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170208642-yrvdrlet6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos al proyecto “Del aula al mostrador en la oficina de farmacia”.</p>\n<p>En este proyecto trabajarás como si estuvieras en una farmacia real, analizando las necesidades de diferentes clientes y seleccionando el producto de parafarmacia más adecuado en cada caso.</p>\n<p>A lo largo de las sesiones, aprenderás a buscar información fiable, seleccionar productos, justificar tus decisiones y comunicarte de forma profesional.</p>\n<p>Para ello, utilizarás diferentes herramientas digitales que te ayudarán a desarrollar tu competencia profesional y digital.</p>\n<p>El objetivo final será resolver casos prácticos y presentar tu propuesta como si estuvieras atendiendo en el mostrador de una farmacia.</p>\n<p> Comenzamos el proyecto… ¿estás preparado/a para trabajar como profesional de farmacia?</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778232392786-t0vqn917q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778232392786-t0vqn917q</odePageId>
+      <odeBlockId>block-1778232774037-ok3ml8ajw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778232392786-t0vqn917q</odePageId>
+          <odeBlockId>block-1778232774037-ok3ml8ajw</odeBlockId>
+          <odeIdeviceId>idevice-1778232774035-523oapblh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>“DEL AULA AL MOSTRADOR DE LA OFICINA DE FARMACIA”</p>
+<p><a href="{{context_path}}/content/resources/Tarea 2.1.Presentación.docx - Documentos de Google.pdf" title="Tarea 2.1.Presentación.docx - Documentos de Google.pdf">Enlace PDF</a></p>
+<p><br />1.  Temática<br />El proyecto se centra en la simulación de la atención al cliente en una farmacia, concretamente en la dispensación de productos parafarmacéuticos (productos sanitarios, dermocosmética, complementos alimenticios, etc.), utilizando herramientas digitales para la búsqueda, selección y presentación de información.</p>
+<p>2.  Nivel al que va dirigido<br />El nivel al que va dirigido es al primer curso del ciclo Formativo de Grado Medio de Farmacia y Parafarmacia</p>
+<p>3.  Temporalización aproximada<br />Duración: 4 semanas (8-10 sesiones)</p>
+<p>●      Sesión 1-2: Introducción y formación digital básica</p>
+<p>●      Sesión 3-6: Resolución de casos prácticos en grupo</p>
+<p>●      Sesión 7-8: Elaboración de presentación digital</p>
+<p>●      Sesión 9-10: Exposición y evaluación</p>
+<p>4.  Materia o materias implicadas<br />●      Módulo: Dispensación de productos parafarmacéuticos</p>
+<p>●      Posible coordinación con:</p>
+<p>o   Promoción de la salud</p>
+<p>o   Disposición y venta de productos</p>
+<p>o   Dispensación de productos farmacéuticos</p>
+<p>5.  Idioma<br />Español</p>
+<p>6.  Descripción general del aprendizaje<br />El alumnado trabajará mediante una metodología activa basada en simulación de situaciones reales (ABP) en las que deberá:</p>
+<p>●      Analizar necesidades de clientes simulados</p>
+<p>●      Buscar información fiable sobre productos parafarmacéuticos</p>
+<p>●      Seleccionar el producto más adecuado</p>
+<p>●      Justificar su elección</p>
+<p>●      Presentar la solución utilizando herramientas digitales</p>
+<p>Se pretende desarrollar:</p>
+<p>●      Competencia profesional (dispensación)</p>
+<p>●      Competencia digital</p>
+<p>●      Pensamiento crítico</p>
+<p>●      Habilidades comunicativas</p>
+<p>JUSTIFICACIÓNEste proyecto se fundamenta en la reflexión realizada en la tarea anterior (modelo de Gibbs), donde se identificaron diversas dificultades en el uso de tecnologías en el aula:</p>
+<p>●      Falta de autonomía del alumnado en la resolución de problemas técnicos</p>
+<p>●      Uso inadecuado de fuentes de información</p>
+<p>●      Dependencia del docente ante incidencias</p>
+<p>A partir de estas conclusiones, este proyecto incorpora mejoras específicas.</p>
+<p>Se utiliza un contexto profesional realista, siendo un aprendizaje significativo, que puede ser llevado al entorno laboral y donde se desarrolla la responsabilidad desde un punto de vista ético.</p>
+<p>Se trabajan aspectos clave como puede ser la selección de información fiable evitando la desinformación sanitaria, la responsabilidad en la recomendación de mostrador y la protección de datos.</p>
+<p>En el desarrollo de la competencia digital se incluyen sesiones iniciales de formación en:</p>
+<p>●      Uso de herramientas digitales</p>
+<p>●      Búsqueda de información fiable en el ámbito sanitario</p>
+<p>Se implementan estrategias para la resolución de problemas técnicos, como:</p>
+<p>●      Aprendizaje entre iguales (alumnado experto)</p>
+<p>●      Protocolos de actuación (“intenta → compañero → docente”)</p>
+<p>●      Trabajo cooperativo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778232774035-523oapblh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>“DEL AULA AL MOSTRADOR DE LA OFICINA DE FARMACIA”</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 2.1.Presentación.docx - Documentos de Google.pdf\" title=\"Tarea 2.1.Presentación.docx - Documentos de Google.pdf\">Enlace PDF</a></p>\n<p><br />1.  Temática<br />El proyecto se centra en la simulación de la atención al cliente en una farmacia, concretamente en la dispensación de productos parafarmacéuticos (productos sanitarios, dermocosmética, complementos alimenticios, etc.), utilizando herramientas digitales para la búsqueda, selección y presentación de información.</p>\n<p>2.  Nivel al que va dirigido<br />El nivel al que va dirigido es al primer curso del ciclo Formativo de Grado Medio de Farmacia y Parafarmacia</p>\n<p>3.  Temporalización aproximada<br />Duración: 4 semanas (8-10 sesiones)</p>\n<p>●      Sesión 1-2: Introducción y formación digital básica</p>\n<p>●      Sesión 3-6: Resolución de casos prácticos en grupo</p>\n<p>●      Sesión 7-8: Elaboración de presentación digital</p>\n<p>●      Sesión 9-10: Exposición y evaluación</p>\n<p>4.  Materia o materias implicadas<br />●      Módulo: Dispensación de productos parafarmacéuticos</p>\n<p>●      Posible coordinación con:</p>\n<p>o   Promoción de la salud</p>\n<p>o   Disposición y venta de productos</p>\n<p>o   Dispensación de productos farmacéuticos</p>\n<p>5.  Idioma<br />Español</p>\n<p>6.  Descripción general del aprendizaje<br />El alumnado trabajará mediante una metodología activa basada en simulación de situaciones reales (ABP) en las que deberá:</p>\n<p>●      Analizar necesidades de clientes simulados</p>\n<p>●      Buscar información fiable sobre productos parafarmacéuticos</p>\n<p>●      Seleccionar el producto más adecuado</p>\n<p>●      Justificar su elección</p>\n<p>●      Presentar la solución utilizando herramientas digitales</p>\n<p>Se pretende desarrollar:</p>\n<p>●      Competencia profesional (dispensación)</p>\n<p>●      Competencia digital</p>\n<p>●      Pensamiento crítico</p>\n<p>●      Habilidades comunicativas</p>\n<p>JUSTIFICACIÓNEste proyecto se fundamenta en la reflexión realizada en la tarea anterior (modelo de Gibbs), donde se identificaron diversas dificultades en el uso de tecnologías en el aula:</p>\n<p>●      Falta de autonomía del alumnado en la resolución de problemas técnicos</p>\n<p>●      Uso inadecuado de fuentes de información</p>\n<p>●      Dependencia del docente ante incidencias</p>\n<p>A partir de estas conclusiones, este proyecto incorpora mejoras específicas.</p>\n<p>Se utiliza un contexto profesional realista, siendo un aprendizaje significativo, que puede ser llevado al entorno laboral y donde se desarrolla la responsabilidad desde un punto de vista ético.</p>\n<p>Se trabajan aspectos clave como puede ser la selección de información fiable evitando la desinformación sanitaria, la responsabilidad en la recomendación de mostrador y la protección de datos.</p>\n<p>En el desarrollo de la competencia digital se incluyen sesiones iniciales de formación en:</p>\n<p>●      Uso de herramientas digitales</p>\n<p>●      Búsqueda de información fiable en el ámbito sanitario</p>\n<p>Se implementan estrategias para la resolución de problemas técnicos, como:</p>\n<p>●      Aprendizaje entre iguales (alumnado experto)</p>\n<p>●      Protocolos de actuación (“intenta → compañero → docente”)</p>\n<p>●      Trabajo cooperativo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778233077628-1wqh5pkmg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778233077628-1wqh5pkmg</odePageId>
+      <odeBlockId>block-1778233634234-77iu0vie8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778233077628-1wqh5pkmg</odePageId>
+          <odeBlockId>block-1778233634234-77iu0vie8</odeBlockId>
+          <odeIdeviceId>idevice-1778233634233-nlnzywj4z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/zhsdoyn7d2pvua0">https://canva.link/zhsdoyn7d2pvua0</a></p>
+<p>En esta actividad aprenderás a utilizar las tecnologías digitales de forma segura y responsable, especialmente en el ámbito sanitario, donde es fundamental proteger los datos personales y respetar la confidencialidad.</p>
+<p>A continuación, se presenta una infografía con recomendaciones clave sobre protección de datos, identidad digital y uso responsable de la información.</p>
+<p><img src="{{context_path}}/content/resources/Infografía Ciberseguridad .jpg" title="Ciberseguridad" width="800" height="2000" alt="recomendaciones clave sobre protección de datos, identidad digital y uso responsable de la información" /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778233634233-nlnzywj4z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/zhsdoyn7d2pvua0\">https://canva.link/zhsdoyn7d2pvua0</a></p>\n<p>En esta actividad aprenderás a utilizar las tecnologías digitales de forma segura y responsable, especialmente en el ámbito sanitario, donde es fundamental proteger los datos personales y respetar la confidencialidad.</p>\n<p>A continuación, se presenta una infografía con recomendaciones clave sobre protección de datos, identidad digital y uso responsable de la información.</p>\n<p><img src=\"{{context_path}}/content/resources/Infografía Ciberseguridad .jpg\" title=\"Ciberseguridad\" width=\"800\" height=\"2000\" alt=\"recomendaciones clave sobre protección de datos, identidad digital y uso responsable de la información\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778233512697-s096ep0a4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778233512697-s096ep0a4</odePageId>
+      <odeBlockId>block-1778233551530-i0wdmn66h</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778233512697-s096ep0a4</odePageId>
+          <odeBlockId>block-1778233551530-i0wdmn66h</odeBlockId>
+          <odeIdeviceId>idevice-1778233551527-gg1iobdyf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Tarea 4.1.Descripción producto final.pdf" title="Tarea 4.1.Descripción producto final.pdf">Enlace PDF</a></p>
+<p>Para el desarrollo del producto final de mi Situación de Aprendizaje, dentro del ciclo de Grado Medio de Farmacia y Parafarmacia, he decidido que el alumnado utilice Canva y Genially con el objetivo de crear un recurso visual e interactivo (infografía, presentación o material divulgativo) relacionado con contenidos como la promoción de la salud, productos farmacéuticos o atención al cliente.</p>
+<p>He seleccionado estas herramientas por su versatilidad, ya que permiten elaborar materiales visuales similares a los que encontrarán en el entorno profesional (carteles, folletos, presentaciones), integrar diferentes formatos (texto, imagen, iconos, vídeo) y fomentar la creatividad y la capacidad de síntesis, clave en el ámbito sanitario.</p>
+<p>El alumnado de este ciclo (16-20 años aproximadamente) suele tener una competencia digital media, pero con niveles diversos. Canva y Genially son herramientas intuitivas, con plantillas que facilitan el trabajo, lo que permite que todo el alumnado pueda participar sin necesidad de conocimientos técnicos avanzados.</p>
+<p>Además, estas herramientas están alineadas con situaciones reales del ámbito profesional, donde es importante comunicar información de forma clara y visual al cliente/paciente.</p>
+<p>En mi centro contamos con aulas con ordenadores o tablet y acceso a internet, así como la posibilidad de uso de dispositivos personales esto hace viable el uso de ambas herramientas en el aula sin dificultades técnicas.</p>
+<p>Estas herramientas permiten el uso de plantillas prediseñadas que reducen la carga cognitiva, la adaptación visual (colores, tamaños, tipografías) y el trabajo progresivo según el nivel del alumnado. De este modo, se favorece la participación de todo el grupo, incluyendo alumnado con diferentes ritmos de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778233551527-gg1iobdyf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Tarea 4.1.Descripción producto final.pdf\" title=\"Tarea 4.1.Descripción producto final.pdf\">Enlace PDF</a></p>\n<p>Para el desarrollo del producto final de mi Situación de Aprendizaje, dentro del ciclo de Grado Medio de Farmacia y Parafarmacia, he decidido que el alumnado utilice Canva y Genially con el objetivo de crear un recurso visual e interactivo (infografía, presentación o material divulgativo) relacionado con contenidos como la promoción de la salud, productos farmacéuticos o atención al cliente.</p>\n<p>He seleccionado estas herramientas por su versatilidad, ya que permiten elaborar materiales visuales similares a los que encontrarán en el entorno profesional (carteles, folletos, presentaciones), integrar diferentes formatos (texto, imagen, iconos, vídeo) y fomentar la creatividad y la capacidad de síntesis, clave en el ámbito sanitario.</p>\n<p>El alumnado de este ciclo (16-20 años aproximadamente) suele tener una competencia digital media, pero con niveles diversos. Canva y Genially son herramientas intuitivas, con plantillas que facilitan el trabajo, lo que permite que todo el alumnado pueda participar sin necesidad de conocimientos técnicos avanzados.</p>\n<p>Además, estas herramientas están alineadas con situaciones reales del ámbito profesional, donde es importante comunicar información de forma clara y visual al cliente/paciente.</p>\n<p>En mi centro contamos con aulas con ordenadores o tablet y acceso a internet, así como la posibilidad de uso de dispositivos personales esto hace viable el uso de ambas herramientas en el aula sin dificultades técnicas.</p>\n<p>Estas herramientas permiten el uso de plantillas prediseñadas que reducen la carga cognitiva, la adaptación visual (colores, tamaños, tipografías) y el trabajo progresivo según el nivel del alumnado. De este modo, se favorece la participación de todo el grupo, incluyendo alumnado con diferentes ritmos de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778233816079-hhzkzh6f1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778233816079-hhzkzh6f1</odePageId>
+      <odeBlockId>block-1778233827840-tvc5yxhvy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778233816079-hhzkzh6f1</odePageId>
+          <odeBlockId>block-1778233827840-tvc5yxhvy</odeBlockId>
+          <odeIdeviceId>idevice-1778233827839-80wfackup</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación encontrarás una recopilación de recursos digitales que te ayudarán a resolver los casos prácticos del proyecto.</p>
+<p>En este espacio podrás acceder a información sobre productos de parafarmacia, normativa, ejemplos prácticos y materiales de apoyo para tu aprendizaje.</p>
+<p><a href="https://padlet.com/ccararc047/recursos-para-la-dispensacion-de-productos-parafarmaceuticos-qmxjqn7ra3xo08y7">https://padlet.com/ccararc047/recursos-para-la-dispensacion-de-productos-parafarmaceuticos-qmxjqn7ra3xo08y7</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778233827839-80wfackup","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación encontrarás una recopilación de recursos digitales que te ayudarán a resolver los casos prácticos del proyecto.</p>\n<p>En este espacio podrás acceder a información sobre productos de parafarmacia, normativa, ejemplos prácticos y materiales de apoyo para tu aprendizaje.</p>\n<p><a href=\"https://padlet.com/ccararc047/recursos-para-la-dispensacion-de-productos-parafarmaceuticos-qmxjqn7ra3xo08y7\">https://padlet.com/ccararc047/recursos-para-la-dispensacion-de-productos-parafarmaceuticos-qmxjqn7ra3xo08y7</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778234325024-synrdjhpj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778234325024-synrdjhpj</odePageId>
+      <odeBlockId>block-1778234367149-dqz2870zj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778234325024-synrdjhpj</odePageId>
+          <odeBlockId>block-1778234367149-dqz2870zj</odeBlockId>
+          <odeIdeviceId>idevice-1778234367146-a1tyswwpi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se muestra la organización temporal del proyecto, donde se detallan las tareas, agrupamientos, herramientas y espacios utilizados en cada sesión.</p>
+<p><a href="https://canva.link/tji0x9anxobyj0h">https://canva.link/tji0x9anxobyj0h</a></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Linea temporal.png" title="Línea temporal" width="1280" height="720" alt="organización temporal del proyecto" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778234367146-a1tyswwpi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra la organización temporal del proyecto, donde se detallan las tareas, agrupamientos, herramientas y espacios utilizados en cada sesión.</p>\n<p><a href=\"https://canva.link/tji0x9anxobyj0h\">https://canva.link/tji0x9anxobyj0h</a></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Linea temporal.png\" title=\"Línea temporal\" width=\"1280\" height=\"720\" alt=\"organización temporal del proyecto\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778234692365-v6krx2ceu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778234692365-v6krx2ceu</odePageId>
+      <odeBlockId>block-1778234713310-z350isetx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778234692365-v6krx2ceu</odePageId>
+          <odeBlockId>block-1778234713310-z350isetx</odeBlockId>
+          <odeIdeviceId>idevice-1778234713309-uqnu0ttw9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el aprendizaje del alumnado se utilizan diferentes instrumentos de evaluación que permiten recoger información desde distintas perspectivas.</p>
+<p><a href="{{context_path}}/content/resources/Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf" title="Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf">Descargar documento en PDF</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778234713309-uqnu0ttw9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el aprendizaje del alumnado se utilizan diferentes instrumentos de evaluación que permiten recoger información desde distintas perspectivas.</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf\" title=\"Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf\">Descargar documento en PDF</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778235299963-dvxf04lk4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778235299963-dvxf04lk4</odePageId>
+      <odeBlockId>block-1778235444428-y6tfv457z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778235299963-dvxf04lk4</odePageId>
+          <odeBlockId>block-1778235444428-y6tfv457z</odeBlockId>
+          <odeIdeviceId>idevice-1778235444427-5kczqm547</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el aprendizaje del alumnado se utilizarán diferentes instrumentos que permiten recoger información desde distintas perspectivas, combinando la evaluación del docente, la autoevaluación del alumnado y el uso de herramientas digitales.</p>
+<p>Los datos recogidos mediante estos instrumentos se analizarán de forma conjunta, permitiendo una evaluación más completa y la mejora del proceso de enseñanza-aprendizaje.</p>
+<p><a href="{{context_path}}/content/resources/Tarea 8.1.Instrumenos evaluación.pdf" title="Tarea 8.1.Instrumenos evaluación.pdf">Documento PDF</a></p>
+<p><a href="https://canva.link/97dkzgw7jbjs24n" title="">https://canva.link/97dkzgw7jbjs24n</a></p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778235444427-5kczqm547","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el aprendizaje del alumnado se utilizarán diferentes instrumentos que permiten recoger información desde distintas perspectivas, combinando la evaluación del docente, la autoevaluación del alumnado y el uso de herramientas digitales.</p>\n<p>Los datos recogidos mediante estos instrumentos se analizarán de forma conjunta, permitiendo una evaluación más completa y la mejora del proceso de enseñanza-aprendizaje.</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 8.1.Instrumenos evaluación.pdf\" title=\"Tarea 8.1.Instrumenos evaluación.pdf\">Documento PDF</a></p>\n<p><a href=\"https://canva.link/97dkzgw7jbjs24n\" title=\"\">https://canva.link/97dkzgw7jbjs24n</a></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778236402603-259hik9yx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778236402603-259hik9yx</odePageId>
+      <odeBlockId>block-1778236421693-rkfn4suqq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778236402603-259hik9yx</odePageId>
+          <odeBlockId>block-1778236421693-rkfn4suqq</odeBlockId>
+          <odeIdeviceId>idevice-1778236421690-r8poibsfx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta guía didáctica recoge la organización del proyecto, así como la relación entre las tareas propuestas y los criterios de evaluación del módulo de Dispensación de productos parafarmacéuticos.</p>
+<p>El proyecto está diseñado para ser aplicado en el aula mediante una metodología activa basada en la resolución de casos prácticos, favoreciendo el aprendizaje significativo y el desarrollo de competencias profesionales y digitales.</p>
+<p>A continuación se presenta la relación entre las tareas del proyecto y los criterios de evaluación:</p>
+<p><a href="{{context_path}}/content/resources/Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf" title="Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf">tabla de relación tareas-criterios</a></p>
+<p>METODOLOGÍA</p>
+<p>Se emplea una metodología activa basada en el aprendizaje por proyectos (ABP), donde el alumnado trabaja de forma colaborativa en la resolución de situaciones reales del entorno profesional.</p>
+<p>Se fomenta el aprendizaje entre iguales, la autonomía y el uso responsable de las tecnologías digitales.</p>
+<p>ATENCION A LA DIVERSIDAD</p>
+<p>El proyecto se adapta a diferentes ritmos y estilos de aprendizaje mediante el uso de recursos visuales, actividades prácticas, trabajo cooperativo y herramientas digitales accesibles.</p>
+<p>Se aplican principios del Diseño Universal para el Aprendizaje (DUA), facilitando la participación de todo el alumnado</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778236421690-r8poibsfx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía didáctica recoge la organización del proyecto, así como la relación entre las tareas propuestas y los criterios de evaluación del módulo de Dispensación de productos parafarmacéuticos.</p>\n<p>El proyecto está diseñado para ser aplicado en el aula mediante una metodología activa basada en la resolución de casos prácticos, favoreciendo el aprendizaje significativo y el desarrollo de competencias profesionales y digitales.</p>\n<p>A continuación se presenta la relación entre las tareas del proyecto y los criterios de evaluación:</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf\" title=\"Tarea 6.1. Asociamos tareas a Criterios de evaluación - Documentos de Google.pdf\">tabla de relación tareas-criterios</a></p>\n<p>METODOLOGÍA</p>\n<p>Se emplea una metodología activa basada en el aprendizaje por proyectos (ABP), donde el alumnado trabaja de forma colaborativa en la resolución de situaciones reales del entorno profesional.</p>\n<p>Se fomenta el aprendizaje entre iguales, la autonomía y el uso responsable de las tecnologías digitales.</p>\n<p>ATENCION A LA DIVERSIDAD</p>\n<p>El proyecto se adapta a diferentes ritmos y estilos de aprendizaje mediante el uso de recursos visuales, actividades prácticas, trabajo cooperativo y herramientas digitales accesibles.</p>\n<p>Se aplican principios del Diseño Universal para el Aprendizaje (DUA), facilitando la participación de todo el alumnado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778236835239-yq7zv5hx0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778236835239-yq7zv5hx0</odePageId>
+      <odeBlockId>block-1778236845678-7zof5zmak</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778236835239-yq7zv5hx0</odePageId>
+          <odeBlockId>block-1778236845678-7zof5zmak</odeBlockId>
+          <odeIdeviceId>idevice-1778236845675-tcvisotxg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Autoría: Constanza Carrillo Arcos</li>
+<li>Descripción: Proyecto de aprendizaje en Farmacia y Parafarmacia</li>
+<li>Licencia: Creative Commons (uso educativo)</li>
+<li>Autoría de imagenes: Imágenes utilizadas con licencia libre</li>
+</ul>
+<p>Este recurso ha sido elaborado con fines educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778236845675-tcvisotxg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Autoría: Constanza Carrillo Arcos</li>\n<li>Descripción: Proyecto de aprendizaje en Farmacia y Parafarmacia</li>\n<li>Licencia: Creative Commons (uso educativo)</li>\n<li>Autoría de imagenes: Imágenes utilizadas con licencia libre</li>\n</ul>\n<p>Este recurso ha sido elaborado con fines educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
